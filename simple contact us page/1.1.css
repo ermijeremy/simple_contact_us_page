@@ -1,0 +1,70 @@
+body{
+    background: rgb(80, 16, 201);
+    background: url(1.jpg);
+}
+#h1{
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    color: white;
+    background: rgb(20, 20, 20);
+    width: 550px;
+    height: 200px;
+    margin-left: 60px;
+}
+#contact{
+    text-align: center;
+    padding-top: 20px;
+}
+#h2{
+    text-align: center;
+    margin-top: 0px;
+}
+#h4{
+    text-align: left;
+}
+#h42{
+    text-align: left;
+}
+#h43{
+    text-align: left;
+}
+#main{
+    background: rgb(122, 165, 165);
+    margin-left: 60px;
+    padding-top: 20px;
+    width: 550px;
+    height: 450px;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+#email{
+    margin-top: 10px;
+    height: 40px;
+    width: 540px;
+    background: rgb(122, 165, 165);
+    border-style: hidden;
+}
+#name{
+    margin-top: 10px;
+    height: 40px;
+    width: 540px;
+    background: rgb(122, 165, 165);
+    border-style: hidden;
+}
+#message{
+    margin-top: 10px;
+    height: 40px;
+    width: 540px;
+    background: rgb(122, 165, 165);
+    border-style: hidden;
+}
+#send{
+    margin-top: 20px;
+    margin-left: 200px;
+    height: 50px;
+    width: 150px;
+    background-color: aqua;
+}
+#send:hover{
+    background: rgb(223, 60, 60);
+}
